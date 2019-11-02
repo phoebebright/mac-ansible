@@ -2,10 +2,10 @@
 index-servers = pypi
 
 [pypi]
-username:adamchainz
+username:phoebebright
 password:hunter2
 
 [testpypi]
 repository:https://test.pypi.org/legacy/
-username:adamchainz
+username:phoebebright
 password:hunter2

@@ -11,11 +11,6 @@
   - SHELL=/bin/bash
   - HOME={{ ansible_env.HOME }}
 
-- name: lifelogger download
-  cron:
-    minute: '0'
-    name: lifelogger download
-    job: /usr/local/bin/lifelogger download && logger lifelogger downloaded >~/tmp/cron.log 2>&1
 
 - name: clean up projects
   cron:
