@@ -1,3 +1,7 @@
+TODO:
+- handlebars global
+- postgres - autostart
+
 mac-ansible
 ===========
 
