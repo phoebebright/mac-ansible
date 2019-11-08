@@ -2,6 +2,10 @@ TODO:
 - handlebars global
 - postgres - autostart
 
+Main list of files here: mac-ansible/roles/phoebe_mac/vars/main.yml
+
+Phoebe copied and customised - Nov 2019
+
 mac-ansible
 ===========
 
