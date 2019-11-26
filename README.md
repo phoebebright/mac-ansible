@@ -24,6 +24,11 @@ Getting Started
 6. `brew install git`
 7. Then `ansible-playbook playbook.yml`
 
+Notes from installing on a clean mojave machine.
+Note - first installed python 3.6.9 using pyenv and then found I had no pip, so did `brew install python` and this got me python 3.7.5
+
+
+
 Fork! Copy! Adapt!
 ------------------
 
