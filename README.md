@@ -41,6 +41,8 @@ Segmentation fault: 11
 Screen flickering like crazy
 
 In energy saving - stopped computer from going to sleep and reran.
+Did seem to get stuck now and again.  Cancel and restart got it going again.
+Can remove the need to install python with pipenv as that is included in playbook.  replace with brew install to be able to use pip.
 
 Fork! Copy! Adapt!
 ------------------
