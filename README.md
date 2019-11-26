@@ -27,7 +27,18 @@ Getting Started
 Notes from installing on a clean mojave machine.
 Note - first installed python 3.6.9 using pyenv and then found I had no pip, so did `brew install python` and this got me python 3.7.5 as the default python and pip3 as the default pip.  Then continued with step 5.
 
+First pass through got this error:
 
+
+TASK [phoebe_mac : Install homebrew packages] **********************************************
+changed: [localhost] => (item=ffmpeg)
+ok: [localhost] => (item=git)
+^[changed: [localhost] => (item=graphviz)
+ERROR! A worker was found in a dead state
+Segmentation fault: 11
+Screen flickering like crazy
+
+In energy saving - stopped computer from going to sleep and reran.
 
 Fork! Copy! Adapt!
 ------------------
