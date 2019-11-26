@@ -25,7 +25,7 @@ Getting Started
 7. Then `ansible-playbook playbook.yml`
 
 Notes from installing on a clean mojave machine.
-Note - first installed python 3.6.9 using pyenv and then found I had no pip, so did `brew install python` and this got me python 3.7.5
+Note - first installed python 3.6.9 using pyenv and then found I had no pip, so did `brew install python` and this got me python 3.7.5 as the default python and pip3 as the default pip.  Then continued with step 5.
 
 
 
