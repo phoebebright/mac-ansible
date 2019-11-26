@@ -6,6 +6,8 @@ Main list of files here: mac-ansible/roles/phoebe_mac/vars/main.yml
 
 Phoebe copied and customised - Nov 2019
 
+main changes in mac-ansible/roles/phoebe_mac/vars/main.yml
+
 mac-ansible
 ===========
 
