@@ -31,6 +31,8 @@ Note - first installed python 3.6.9 using pyenv and then found I had no pip, so 
 
 add: brew install sass/sass/sass
 
+node not being installed - check it is added
+
 First pass through got this error:
 
 
