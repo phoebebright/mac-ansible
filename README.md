@@ -43,6 +43,9 @@ Screen flickering like crazy
 In energy saving - stopped computer from going to sleep and reran.
 Did seem to get stuck now and again.  Cancel and restart got it going again.
 Can remove the need to install python with pipenv as that is included in playbook.  replace with brew install to be able to use pip.
+point pip to pip3 - in ~/.bash_profile add `alias pip=pip3`
+create directory /usr/local/man - set owner to user
+
 
 Fork! Copy! Adapt!
 ------------------
