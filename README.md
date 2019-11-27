@@ -33,6 +33,8 @@ add: brew install sass/sass/sass
 
 node not being installed - check it is added
 
+install gulp - npm install --global gulp-cli
+
 First pass through got this error:
 
 
