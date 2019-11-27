@@ -33,7 +33,8 @@ add: brew install sass/sass/sass
 
 node not being installed - check it is added
 
-install gulp - npm install --global gulp-cli
+install gulp: npm install --global gulp-cli
+install hanlebars: npm install --global handlebars
 
 First pass through got this error:
 
