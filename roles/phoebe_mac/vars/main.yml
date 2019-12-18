@@ -46,6 +46,7 @@ homebrew_packages:
 #- pngcrush
 - postgresql
 #- pwgen
+- pipenv
 - pyenv
 - pypy
 - python3
