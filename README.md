@@ -54,6 +54,11 @@ Can remove the need to install python with pipenv as that is included in playboo
 point pip to pip3 - in ~/.bash_profile add `alias pip=pip3`
 create directory /usr/local/man - set owner to user
 
+July2020 - Macbook Pro - 10.15.4
+---------------------------------
+pip not installed only pip3 so need to setup alias
+
+
 
 Fork! Copy! Adapt!
 ------------------
